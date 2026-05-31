@@ -1,0 +1,173 @@
+{
+  "last_updated": "2026-05-31",
+  "source": "OAS II - Meditop Thailand",
+
+  "Dirui": {
+    "instruments": [
+      {"pn": "DIR-1520104001-CR", "desc": "DIRUI H-500 Urine Analyzer (H13-CR)", "price_ex_vat": 75000, "price_inc_vat": 80250}
+    ],
+    "reagents": [
+      {"pn": "DIR-231011401001", "desc": "DIRUI H10-500 strip (100 pcs/Bott)", "price_ex_vat": 1000, "price_inc_vat": 1070},
+      {"pn": "DIR-231011301001", "desc": "DIRUI H11-500 MA(N) strip (100 pcs/Bott)", "price_ex_vat": 1100, "price_inc_vat": 1177},
+      {"pn": "DIR-231010601001", "desc": "DIRUI H11-500 strip (100 pcs/Bott)", "price_ex_vat": 1100, "price_inc_vat": 1177},
+      {"pn": "DIR-231010101001", "desc": "Dirui H13-Cr (for H-500)", "price_ex_vat": 1300, "price_inc_vat": 1391}
+    ],
+    "controls": [
+      {"pn": "DIR-232030303202", "desc": "URINE CONTROL POSITIVE 4x 8 ML", "price_ex_vat": 2000, "price_inc_vat": 2140},
+      {"pn": "DIR-232030301202", "desc": "URINE CONTROL NEGATIVE 4 x 8 ML", "price_ex_vat": 2000, "price_inc_vat": 2140}
+    ],
+    "effective_date": "2022-09-05",
+    "note": "ราคา Urine Strips เป็นราคากรณีซื้อเครื่องเท่านั้น"
+  },
+
+  "Sysmex_Urine": {
+    "instruments_note": "ราคาเครื่องอยู่ใน Sysmex_CBC (UN-Series ใช้ analyzer ร่วมกัน)",
+    "uf_ud_reagents": [
+      {"pn": "SYM-UN-AG792864", "desc": "UF-Fluorocell CR (UFR-800A) 29mL x 2", "tests_per_pack": 4320, "price_ex_vat": 15000, "price_inc_vat": 16050, "cost_per_test_inc_vat": 3.72},
+      {"pn": "SYM-UN-CE919553", "desc": "UF-Fluorocell SF (UFF-800A) 29mL x 2", "tests_per_pack": 4320, "price_ex_vat": 15000, "price_inc_vat": 16050, "cost_per_test_inc_vat": 3.72},
+      {"pn": "SYM-UN-CB505392", "desc": "UF-CELLPACK CR 2.1L x 2", "tests_per_pack": 5655, "price_ex_vat": 15000, "price_inc_vat": 16050, "cost_per_test_inc_vat": 2.84},
+      {"pn": "SYM-UN-CE604532", "desc": "UF-CELLPACK SF 2.1L x 2", "tests_per_pack": 5655, "price_ex_vat": 15000, "price_inc_vat": 16050, "cost_per_test_inc_vat": 2.84},
+      {"pn": "SYM-UN-BY074501", "desc": "UF-CELLSHEATH 20L", "tests_per_pack": 495, "price_ex_vat": 3000, "price_inc_vat": 3210, "cost_per_test_inc_vat": 6.48}
+    ],
+    "uf_ud_controls": [
+      {"pn": "SYM-UN-BE740265", "desc": "UF-CONTROL (H:30mLx1; L:30mLx1) for UN", "price_ex_vat": 7000, "price_inc_vat": 7490},
+      {"pn": "SYM-UN-CN383000", "desc": "UF-CALIBRATOR (30mL x 2) for UN", "price_ex_vat": 19500, "price_inc_vat": 20865}
+    ],
+    "uc3500_reagents": [
+      {"pn": "SYM-UN-AX119225", "desc": "MEDITAPE UC-9A (100 PCS)", "tests_per_pack": 100, "price_ex_vat": 700, "price_inc_vat": 749, "cost_per_test_inc_vat": 7.49},
+      {"pn": "SYM-UN-CM374009", "desc": "MEDITAPE UC-11A (100 PCS)", "tests_per_pack": 100, "price_ex_vat": 850, "price_inc_vat": 909.50, "cost_per_test_inc_vat": 9.10}
+    ],
+    "uc3500_controls": [
+      {"pn": "SYM-UN-AU448468", "desc": "UC-CONTROL (10ml x 2 levels) x 3 bottles", "price_ex_vat": 8400, "price_inc_vat": 8988},
+      {"pn": "SYM-UN-CK920648", "desc": "USG-100A: SG Calibration (10ml x 3 levels) x 5 bottles", "price_ex_vat": 6700, "price_inc_vat": 7169}
+    ],
+    "effective_date": "2022-03-18"
+  },
+
+  "Sysmex_CBC": {
+    "instruments": [
+      {"no": 1, "desc": "pocH-100i", "price_inc_vat": 300000},
+      {"no": 2, "desc": "XP-100", "price_inc_vat": 700000},
+      {"no": 3, "desc": "XP-300", "price_inc_vat": 800000},
+      {"no": 4, "desc": "XN-350", "price_inc_vat": 1800000},
+      {"no": 5, "desc": "XN-450", "price_inc_vat": 2000000},
+      {"no": 6, "desc": "XN-550", "price_inc_vat": 2500000},
+      {"no": 7, "desc": "XN-1000 (XN-10)", "price_inc_vat": 4200000},
+      {"no": 8, "desc": "XN-1000 (XN-20)", "price_inc_vat": 4500000},
+      {"no": 9, "desc": "XN-1500 (XN-10+SP-50)", "price_inc_vat": 6000000},
+      {"no": 10, "desc": "XN-1500 (XN-20+SP-50)", "price_inc_vat": 6500000},
+      {"no": 11, "desc": "XN-2000 (XN-10+XN-10)", "price_inc_vat": 7000000},
+      {"no": 12, "desc": "XN-2000 (XN-10+XN-20)", "price_inc_vat": 7500000},
+      {"no": 13, "desc": "XN-3100 (2XN-10+SP-50)", "price_inc_vat": 8000000},
+      {"no": 14, "desc": "XN-3100 (XN-10+XN-20+SP-50)", "price_inc_vat": 8500000},
+      {"no": 15, "desc": "XN-3000 (2XN-10+SP-10)", "price_inc_vat": 9000000},
+      {"no": 16, "desc": "XN-3000 (XN-10+XN-20+SP-10)", "price_inc_vat": 9500000},
+      {"no": 17, "desc": "XN-9102 (2XN-10+SP-10+Wagon)", "price_inc_vat": 15000000},
+      {"no": 18, "desc": "XN-9202 (2XN-10+2SP-10+Wagon)", "price_inc_vat": 20000000},
+      {"no": 19, "desc": "XN-9203 (3XN-10+2SP-10+Wagon)", "price_inc_vat": 25000000},
+      {"no": 20, "desc": "XN-9204 (4XN-10+2SP-10+Wagon)", "price_inc_vat": 30000000},
+      {"no": 21, "desc": "XR-1000 (XR-10)", "price_inc_vat": 4300000},
+      {"no": 22, "desc": "XR-1000 (XR-20)", "price_inc_vat": 4600000},
+      {"no": 23, "desc": "XR-1500 (XR-10+SP-50)", "price_inc_vat": 6200000},
+      {"no": 24, "desc": "XR-1500 (XR-20+SP-50)", "price_inc_vat": 6600000},
+      {"no": 25, "desc": "XR-2000 (XR-10+XN-10)", "price_inc_vat": 7200000},
+      {"no": 26, "desc": "XR-2000 (XR-10+XN-20)", "price_inc_vat": 7600000},
+      {"no": 27, "desc": "XR-3000 (2XR-10+SP-50)", "price_inc_vat": 8200000},
+      {"no": 28, "desc": "XR-3000 (XR-10+XR-20+SP-50)", "price_inc_vat": 8600000},
+      {"no": 29, "desc": "SP-50", "price_inc_vat": 4000000},
+      {"no": 30, "desc": "DI-60", "price_inc_vat": 7000000},
+      {"no": 31, "desc": "DC-1", "price_inc_vat": 2000000},
+      {"no": 32, "desc": "RU-20", "price_inc_vat": 1500000}
+    ],
+    "licenses": [
+      {"desc": "XN RET License", "price_inc_vat": 214000},
+      {"desc": "XN PLT-F License", "price_inc_vat": 214000},
+      {"desc": "XN BF License", "price_inc_vat": 139100},
+      {"desc": "XR RET License", "price_inc_vat": 250000},
+      {"desc": "XR PLT-F License", "price_inc_vat": 250000},
+      {"desc": "XR BF License", "price_inc_vat": 180000}
+    ],
+    "accessories": [
+      {"pn": "SYM-XU-10135-01", "desc": "Immersion Oil 150ml (DI-60)", "price_inc_vat": 12000},
+      {"pn": "SYM-XU-10319", "desc": "Immersion Oil 50ml (DC-1)", "price_inc_vat": 6000}
+    ],
+    "wellgate_stain": [
+      {"code": "LAB-WRIGHT GIEMSA A", "desc": "Wright Giemsa A 5L (Stain)", "price_gov_inc_vat": 5000, "price_private_inc_vat": 4500},
+      {"code": "LAB-WRIGHT GIEMSA B", "desc": "Wright Giemsa B 5L (Buffer สีฟ้า)", "price_gov_inc_vat": 2000, "price_private_inc_vat": 1500},
+      {"code": "LAB-WRIGHT GIEMSA C", "desc": "Wright Giemsa B 5L (Buffer สีส้ม)", "price_gov_inc_vat": 2000, "price_private_inc_vat": 1500}
+    ],
+    "effective_date": "2025-03-10"
+  },
+
+  "Siemens": {
+    "instruments": [
+      {"pn": "SMN-DC-10282970", "desc": "DCA VANTAGE ANALYZER", "price_ex_vat": 200000, "price_inc_vat": 214000}
+    ],
+    "reagents": [
+      {"pn": "SMN-DC-10698915", "desc": "DCA HBA1C DIAGNOSTIC KIT (1x10)", "tests_per_pack": 10, "price_ex_vat": 2250, "price_per_test_ex_vat": 225, "price_inc_vat": 2407.5, "price_per_test_inc_vat": 240.75},
+      {"pn": "SMN-DC-10330888", "desc": "MICROALBUMIN/CREATININE REAGENT (1x10)", "tests_per_pack": 10, "price_ex_vat": 3100, "price_per_test_ex_vat": 310, "price_inc_vat": 3317, "price_per_test_inc_vat": 331.70}
+    ],
+    "controls": [
+      {"pn": "SMN-DC-10311161", "desc": "HBA1C NORM/ABN CONT (2x2x0.25ml)", "price_ex_vat": 3900, "price_inc_vat": 4173},
+      {"pn": "SMN-DC-10325406", "desc": "MICROALBUMIN/CREATININ CONTROL (2x2x0.25ml)", "price_ex_vat": 4900, "price_inc_vat": 5243}
+    ],
+    "effective_date": "2023-02-23"
+  },
+
+  "Dymind_DH615": {
+    "instrument_file": "Dymind DH615 Analyzer Pricelist_15.09.2023.docx",
+    "reagents_cbc": [
+      {"pn": "DYM-12.01.1065A", "desc": "DIL-N Hematology Analyzer Diluent - 20L", "price_ex_vat": 2000, "price_inc_vat": 2140, "cost_per_test": 5.34},
+      {"pn": "DYM-12.01.1078A", "desc": "LYN-G Hematology Analyzer Lyse - 500mL", "price_ex_vat": 4700, "price_inc_vat": 5029, "cost_per_test": 5.59},
+      {"pn": "DYM-12.01.1080A", "desc": "LYN-D Hematology Analyzer Lyse - 1L", "price_ex_vat": 4700, "price_inc_vat": 5029, "cost_per_test": 8.39},
+      {"pn": "DYM-12.01.1075A", "desc": "FDN-D Hematology Analyzer Dye - 42mL", "price_ex_vat": 12000, "price_inc_vat": 12840, "cost_per_test": 6.76}
+    ],
+    "total_cost_per_test_cbc": 26.08,
+    "reagents_retic": [
+      {"pn": "DYM-12.01.1068A", "desc": "DIN-R Hematology Analyzer Diluent - 500mL", "price_ex_vat": 1600, "price_inc_vat": 1712, "cost_per_test": 5.70},
+      {"pn": "DYM-12.01.1071A", "desc": "FDN-R Hematology Analyzer Dye - 12mL", "price_ex_vat": 12500, "price_inc_vat": 13375, "cost_per_test": 24.30}
+    ],
+    "total_cost_per_test_retic": 30.00,
+    "cleansing": [
+      {"pn": "DYM-12.01.1076A", "desc": "CLE-P Cleanser - 4mL (10x4mL)", "price_ex_vat": 1000, "price_inc_vat": 1070}
+    ],
+    "calibrator_control": [
+      {"pn": "DYM-12.01.1280A", "desc": "DM-CAL-5E Hematology Calibrator - 3mL", "price_ex_vat": 9000, "price_inc_vat": 9630},
+      {"pn": "DYM-12.01.1311A", "desc": "DM-6D Hematology Control (H+N+L)", "price_ex_vat": 8000, "price_inc_vat": 8560},
+      {"pn": "DYM-12.01.1558A", "desc": "DM-RET Hematology Control (H+N+L)", "price_ex_vat": 9000, "price_inc_vat": 9630}
+    ],
+    "effective_date": "2026-05-15"
+  },
+
+  "Dymind_DF55": {
+    "reagents_cbc": [
+      {"pn": "DYM-12.01.0038A", "desc": "DIL-C Hematology Analyzer Diluent - 20L", "price_ex_vat": 2000, "price_inc_vat": 2140, "cost_per_test": 4.28},
+      {"pn": "DYM-12.01.0039A", "desc": "LYC-1 Hematology Analyzer Lyse - 200mL", "price_ex_vat": 9400, "price_inc_vat": 10058, "cost_per_test": 10.06},
+      {"pn": "DYM-12.01.0042A", "desc": "LYC-2 Hematology Analyzer Lyse - 500mL", "price_ex_vat": 5100, "price_inc_vat": 5457, "cost_per_test": 7.79}
+    ],
+    "total_cost_per_test_cbc": 22.13,
+    "effective_date": "2023-07-12"
+  },
+
+  "Dymind_DH76": {
+    "reagents_cbc": [
+      {"pn": "DYM-12.01.0031A", "desc": "DIL-A Hematology Analyzer Diluent - 20L", "price_ex_vat": 1900, "price_inc_vat": 2033, "cost_per_test": 4.63},
+      {"pn": "DYM-12.01.0032A", "desc": "LYA-1 Hematology Analyzer Lyse - 500mL", "price_ex_vat": 3900, "price_inc_vat": 4173, "cost_per_test": 4.64},
+      {"pn": "DYM-12.01.0034A", "desc": "LYA-2 Hematology Analyzer Lyse - 500mL", "price_ex_vat": 5800, "price_inc_vat": 6206, "cost_per_test": 6.89},
+      {"pn": "DYM-12.01.0036A", "desc": "LYA-3 Hematology Analyzer Lyse - 1L", "price_ex_vat": 4800, "price_inc_vat": 5136, "cost_per_test": 7.90}
+    ],
+    "total_cost_per_test_cbc": 24.06,
+    "effective_date": "2023-07-12"
+  },
+
+  "Dymind_DP-H10": {
+    "reagents": [
+      {"pn": "DYM-12.02.0595A", "desc": "PTD-1 Hematology Analyzer Reagent Kit (Diluent+Lyse) - 50 Tests", "tests_per_kit": 50, "price_ex_vat": 4205.61, "price_inc_vat": 4500}
+    ],
+    "calibrator_control": [
+      {"pn": "12.01.0607A", "desc": "DM-CAL Hematology Calibrator - 3mL", "price_ex_vat": 3000, "price_inc_vat": 3210},
+      {"pn": "12.01.1806A", "desc": "DM-3D Hematology Control (H+N+L)", "price_ex_vat": 4000, "price_inc_vat": 4280}
+    ],
+    "effective_date": "2024-03-12"
+  }
+}
