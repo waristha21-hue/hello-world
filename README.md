@@ -1,14 +1,20 @@
-# Hello World
+# Job's Sales Toolkit
 
-A simple Python greeting program.
+Professional sales toolkit for medical device / laboratory diagnostics — Meditop Co., Ltd.
 
-## Usage
+## Contents
 
-```bash
-python main.py
-```
+- `profile.md` — Professional profile
+- `HANDOVER.md` — Session handover notes
+- `quotation-email-skill/` — Quotation email generator skill
+  - `SKILL.md` — Skill logic and configuration
+  - `references/` — Product reference files for email generation
 
-## Fetures
+## Product Lines
 
-- Greets the user by name
-- Supports custom greetings
+| Product | Category | Reference |
+|---------|----------|-----------|
+| Sysmex UF-4000 / UN-Series / UD-10 | Urinalysis | `references/sysmex-ua-uf.md` |
+| Sysmex XN-3000 | Hematology (CBC) | `references/sysmex-xn3000.md` |
+| Dirui Analyzers | Urine / Hematology | `references/dirui.md` |
+| Sciendox Feces Analyzer 5A | Fecal Analysis | `references/sciendox.md` |
