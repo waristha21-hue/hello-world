@@ -8,7 +8,7 @@ A simple Python greeting program.
 python main.py
 ```
 
-## Fetures
+## Features
 
 - Greets the user by name
 - Supports custom greetings
