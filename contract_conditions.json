@@ -1,0 +1,279 @@
+{
+  "last_updated": "2026-05-31",
+  "source": "Contract CBC.UN condition emails - approved by PM (พี่นก/Petcharee)",
+  "note": "ราคาทั้งหมดรวม VAT 7% ยกเว้นระบุ wo/Vat | KB = Kickback | LIS = Lab Information System",
+
+  "hospitals": {
+    "รพ.กลาง": {
+      "CBC": {
+        "model": "XN-3000 (New) + DI-60 (Old)",
+        "config": "XN-3000+RET 1 License+BF 1 License เครื่องใหม่ + DI-60 เครื่องเดิม",
+        "price_per_test_wvat": 31,
+        "tests_per_month": {"CBC_DIFF": 10000, "RET": 200, "BF": 100},
+        "kb_percent": 0.5,
+        "support": {
+          "XN_check": "48 set/yr",
+          "XN_check_BF": "12 set/yr",
+          "XN_CAL": "2 set/yr",
+          "slide": "70 box/month",
+          "immersion_oil_DI60": "13 bag/yr",
+          "wright_stain_A_5L": "24 box/yr (ขอแถมจาก Wellgate)",
+          "buffer_B_5L": "36 box/yr (ขอแถมจาก Wellgate)",
+          "methanol": "4 tank/yr = 4,000 THB/yr",
+          "LIS_install": "481,500 THB w/Vat",
+          "LIS_MA": "77,040 THB/yr w/Vat",
+          "EQA_domestic": "6,500 THB/yr w/Vat",
+          "RIQAS_hemato": "40,125 THB/yr w/Vat",
+          "monitor_arm": "3,000 THB w/Vat",
+          "WAM_upgrade_5license": "95,000 THB w/Vat",
+          "DI60_server_computer": "50,000 THB",
+          "remote_review_DI60": "1 point + old computer 1 set",
+          "renovate": "400,000 THB",
+          "water_filter": "8,000 THB w/Vat",
+          "water_filter_MA": "3,000 THB/yr w/Vat"
+        },
+        "approved_date": "2025-07-14",
+        "approved_by": "พี่นก (Petcharee)"
+      },
+      "UA": {
+        "model": "UN3111b+U-WAM (UC3500 old, UF5000 new, UD-10 old) + UC1000 (old)",
+        "price_per_test_wvat": {"strip": 10, "sediment": 21, "total": 31},
+        "target_sell_price": 33,
+        "tests_per_month": 4400,
+        "kb_percent": 0,
+        "support": {
+          "meditape": "9A + 10S",
+          "NSS_cleaning": "2 bott/day for UC-3500",
+          "UC_control": "8 packs/yr (control 1 round/day)",
+          "UF_control": "24 packs/yr (UF-UD control 1 round/day)",
+          "UF_cell_sheath": "included",
+          "UF_fluorocell_SF_CR": "included",
+          "UF_cell_pack_SF_CR": "included",
+          "UF_calibrator": "1 pack/yr",
+          "SG_calibrator": "2 packs/yr",
+          "LIS_MA": "32,100 THB/yr",
+          "EQA_RIQAS_RQ9138": "25,680 THB/yr",
+          "EQA_กรมวิทย์": "4,000 THB/yr",
+          "monitor_arm": "3,000 THB"
+        },
+        "approved_date": "2024-07-15"
+      }
+    },
+
+    "รพ.ราชพิพัฒน์": {
+      "CBC": {
+        "model": "XN-3000+RET+BF (New) + DI-60 (Old) + WAM (Old)",
+        "price_per_test_wvat": 27,
+        "tests_per_year": {"CBC_DIFF": 192000, "RET": 3600, "BF": 1440},
+        "kb_percent": 2,
+        "support": {
+          "XN_check": "48 set/yr",
+          "XN_check_BF": "12 set/yr",
+          "XN_CAL": "2 set/yr",
+          "slide_MS101": "768 box/yr (40% of total tests)",
+          "wright_stain_A_5L": "25 box/yr",
+          "buffer_B_orange_5L": "96 box/yr",
+          "methanol_20L": "6 box/yr",
+          "immersion_oil": "25 bag/yr",
+          "EQA_กรมวิทย์": "6,500 THB/yr",
+          "RIQAS_hemato": "40,125 THB w/Vat/yr",
+          "LIS": "NO LIS (ใช้ของเดิม)",
+          "LIS_MA": "32,100 THB/yr w/Vat",
+          "WAM_MA": "25,360 THB/yr wo/Vat",
+          "DI60_remote_computer": "1 set for doctor",
+          "renovate": "100,000 THB"
+        },
+        "approved_date": "2025-07-02",
+        "approved_by": "พี่นก (Petcharee)"
+      },
+      "ESR": {
+        "model": "ESR 8*120mm glass tube (No LIS)",
+        "price_per_tube_wvat": 19,
+        "commission_sale": "2%",
+        "kb_percent": 0,
+        "contract_tests_per_year": 5000,
+        "contract_duration": "5 years",
+        "support": {
+          "EQA_ESR_เชียงใหม่": "3,000 THB/yr (ผู้แทนสมัครให้)",
+          "FOC_IQC": "1 set/yr (เมื่อ PO ครบ 5,000 tests ในปีนั้น)",
+          "handheld_barcode": "1 unit"
+        },
+        "note": "IQC ต้องแจ้งล่วงหน้า 2-3 เดือน (สั่งต่างประเทศ)",
+        "approved_date": "2024-09-25"
+      }
+    },
+
+    "รพ.เลิดสิน": {
+      "CBC": {
+        "model": "XN-3000+RET+BF+DI-60 (All New)",
+        "price_per_test_wvat": 24,
+        "contract_duration": "3 years",
+        "tests_3years": {"CBC_DIFF": 450000, "RET": 7200, "BF": 5400},
+        "kb_percent": 0,
+        "support": {
+          "XN_check": "54 set/yr",
+          "XN_check_BF": "12 set/yr",
+          "XN_CAL": "2 set/yr",
+          "slide_MS101": "600 box/yr",
+          "immersion_oil_DI60": "20 bag/yr",
+          "baso_stain": "90 box/3yrs",
+          "repeat_PLT_O": "7,500 tests/yr (5% of work)",
+          "EQA_mahidol": "5,000 THB w/Vat/yr",
+          "caresphere_internet": "9,500 THB/3yrs",
+          "blood_smear_online": "50,000 THB",
+          "LIS": "NO LIS",
+          "water_filter": "8,000 THB",
+          "water_filter_MA": "4,000 THB/yr (2 times)"
+        },
+        "bidding": "E-Bidding แข่งขันจริง",
+        "approved_date": "2025-03-17",
+        "approved_by": "พี่นก (Petcharee)"
+      }
+    },
+
+    "รพ.หลวงพ่อทวีศักดิ์": {
+      "CBC": {
+        "model": "XN-1500 (XN-10 New+SP-50 Old) + XN-1000 (Old)",
+        "previous_model": "XN-2000",
+        "price_per_test_wvat": 33,
+        "tests_per_year": {"CBC_DIFF": 50000},
+        "kb_percent": 0,
+        "support": {
+          "XN_check": "36 set/yr",
+          "XN_CAL": "2 set/yr",
+          "slide": "25,000 tests/yr",
+          "methanol_20L": "6 tank/yr",
+          "wright_stain_A": "9 box/yr (ขอแถมจาก Wellgate)",
+          "buffer_B": "70 box/yr (ขอแถมจาก Wellgate)",
+          "RIQAS_hemato": "1 program/yr",
+          "LIS_install": "171,200 THB w/Vat (เชื่อมต่อแล้ว)",
+          "LIS_MA_Roche": "51,360 THB/yr w/Vat (25,680x2)",
+          "water_filter": "6,000 THB w/Vat",
+          "water_filter_MA": "2,000 THB w/Vat/yr",
+          "table_result": "107,000 THB w/Vat"
+        },
+        "approved_date": "2025-10-28",
+        "approved_by": "พี่นก (Petcharee)"
+      }
+    },
+
+    "รพ.ผู้สูงอายุบางขุนเทียน": {
+      "CBC": {
+        "model": "XN-1500 (Old - เครื่องเดิม)",
+        "price_per_test_wvat": 42,
+        "tests_per_month": {"CBC_DIFF": "2,500-3,000"},
+        "kb_percent": 0,
+        "support": {
+          "XN_check": "12 set/yr",
+          "XN_CAL": "1 set/yr",
+          "slide": "750 pcs/month (30% of tests)",
+          "wright_giemsa_A_5L": "3 box/yr",
+          "buffer_B_5L": "5 box/yr",
+          "LIS_MA": "32,100 THB/yr w/Vat",
+          "EQA_mahidol": "8,500 THB/yr w/Vat",
+          "table": "50,000 THB w/Vat",
+          "methanol_20L": "12 tank/yr = 6,000 THB/yr",
+          "LIS": "NO LIS"
+        },
+        "approved_date": "2025-06-04",
+        "approved_by": "พี่นก (Petcharee)"
+      }
+    },
+
+    "ศูนย์การแพทย์กาญจนาภิเษก (ม.มหิดล)": {
+      "UA": {
+        "model": "UN-3111a + U-WAM (New)",
+        "price_per_test_wvat": {"combined": "varies", "sediment": 24.5, "strip": 10},
+        "alt_price_sediment_26_strip_10.5": "กรณีค่าเชื่อม LIS ลดเหลือ 150,000",
+        "tests_per_month": 4884,
+        "contract_units": 1,
+        "support": {
+          "LIS_Roche": "160,500 THB w/Vat",
+          "LIS_MA": "32,100 THB/yr w/Vat",
+          "UF_control": "FOC ไม่เกิน 48 packs/yr (run 2 rounds/day)",
+          "UC_control": "8 packs/yr (1 pack = 3 sets, ใช้ได้ 1.5 เดือน)",
+          "SG_calibrator": "ตามรอบ CAL",
+          "UF_calibrator": "ตามรอบ CAL",
+          "NSS_0.9%": "1 bottle/day",
+          "EQA_RIQAS": "24,000 THB/yr wo/Vat",
+          "academic_budget": "20,000 THB/yr",
+          "table": "70,000 THB w/Vat"
+        },
+        "kb_percent": 0,
+        "approved_date": "2024-05-08",
+        "approved_by": "K.Somboon"
+      }
+    },
+
+    "รพ.สมเด็จพระปิ่นเกล้า": {
+      "CBC": {
+        "model": "XR-3000+XR-1000+XN-550 (All New)",
+        "config": "XR-3000 (XR-10 C+D+EIP, XR-10 C+Reti, SP-50) + XR-1000 (XR-10 C+BF) + XN-550 (C+D)",
+        "price_per_test_wvat": {"CBC": 24, "RET": 25, "BF": 20},
+        "price_guarantee": true,
+        "tests_per_month": {"CBC": "10,000-12,000", "RET": 200, "BF": 100},
+        "kb_percent": 0,
+        "support": {
+          "XN_check": "60 set/yr",
+          "BF_check": "12 set/yr",
+          "XN_CAL": "4 set/yr",
+          "slide_MS101": "sell 400 THB w/Vat/box or 4 THB/pc (40%)",
+          "wright_stain_A_5L": "30 bottle/yr",
+          "buffer_B_5L": "300 bottle/yr (ขอแถมจาก Wellgate)",
+          "EQA_mahidol": "8,500 THB w/Vat/yr",
+          "table_XR3000_XR1000": "107,000 THB w/Vat",
+          "water_filter": "8,000 THB w/Vat",
+          "water_filter_MA": "5,000 THB w/Vat/yr (2 times)",
+          "WAM_program": "277,360 THB w/Vat",
+          "WAM_MA": "27,135 THB w/Vat/yr"
+        },
+        "approved_date": "2025-07-16",
+        "approved_by": "พี่นก (Petcharee)"
+      }
+    },
+
+    "รพ.เจริญกรุงประชารักษ์": {
+      "CBC": {
+        "model": "XN-3000 (Old) + RET 2 License (1 Old + 1 New)",
+        "price_per_test_wvat": 24.8,
+        "tests_per_month": {"CBC_DIFF": 12000, "RET": 2000},
+        "kb_percent": 1,
+        "support": {
+          "XN_check": "48 set/yr",
+          "XN_CAL": "2 set/yr",
+          "slide_100%": "12,000 pcs/month = 144,000/yr",
+          "SP10_ribbon_toner": "sufficient for use",
+          "methanol_SP10": "9,000 THB/yr",
+          "LIS_install": "481,500 THB w/Vat (paid)",
+          "WAM": "145,000 THB w/Vat (paid)",
+          "LIS_MA": "32,100 THB/yr w/Vat",
+          "WAM_MA": "12,160.55 THB/yr w/Vat",
+          "EQA_domestic": "8,500 THB/yr w/Vat",
+          "client_computers": "2 units x 50,000 = 100,000 THB (paid)"
+        },
+        "reference_pricing": "รพ. กทม. ขนาดเดียวกัน ราคาใกล้เคียง 31 THB",
+        "approved_date": "2025-08-15",
+        "approved_by": "พี่นก (Petcharee)"
+      }
+    },
+
+    "รพ.คูน (Koon Hospital)": {
+      "CBC": {
+        "model": "XN-330 (New)",
+        "pricing_model": "ค่าเช่า + ขายแพค",
+        "rental_monthly": 10000,
+        "price_per_test_wvat": 80,
+        "selling_method": "ขายเป็นแพค",
+        "kb_percent": 0,
+        "support": {
+          "XN_L_check": "buy at pricelist 10,593 THB w/Vat",
+          "XN_CAL": "buy at pricelist 6,000 THB w/Vat",
+          "LIS": "NO LIS"
+        },
+        "note": "รพ.เอกชน ไม่เคยมีเครื่อง ส่ง Outlab อยู่ | STH ให้สิทธิ์การขาย MDT",
+        "approved_date": "2025-11-17",
+        "approved_by": "พี่นก (Petcharee)"
+      }
+    }
+  }
+}

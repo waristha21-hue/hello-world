@@ -1,0 +1,176 @@
+{
+  "last_updated": "2026-06-01",
+  "source": "Outlook sent items - 42 quotation emails analyzed",
+
+  "customers": {
+    "รพ.ราชพิพัฒน์": {
+      "เสนอต่อ": "ท่านผู้อำนวยการ",
+      "quotations": [
+        {"date": "2026-05-26", "product": "IMPROVE (สินค้าขายขาด)", "subject_pattern": "รบกวนใบเสนอราคาสินค้า IMPROVE ของ โรงพยาบาลราชพิพัฒน์", "attachments": ["IMPROVE pricelist", "ขอทำใบเสนอราคา สินค้า DIAG.xlsx"]},
+        {"date": "2026-04-02", "product": "Autopipette (CLD)", "note": "ลูกค้าขอสนับสนุนสำหรับงาน Typing", "sent_to_cld": true},
+        {"date": "2025-11-14", "product": "CBC Contract (XN-3000+DI-60)", "price_per_test_wvat": 29.75, "note": "ใบเสนอราคาออกจากระบบ PDF เลขที่ MDT-DIAG-680706-00805"}
+      ],
+      "contact": "หัวหน้าห้อง Lab = คุณธรรมรัตน์ ประยูรสุข",
+      "products_sold": ["CBC (XN-3000+DI-60)", "ESR tube", "IMPROVE", "Autopipette"]
+    },
+
+    "รพ.กลาง": {
+      "เสนอต่อ": "ท่านผู้อำนวยการ",
+      "quotations": [
+        {"date": "2026-04-29", "product": "CBC ตั้งงบ e-bidding ปี 2570", "type": "MDT+MEDONE 2 ใบ", "note": "เอกสารลงนามเซ็นจริง, สแกน PDF ส่งเมล์"},
+        {"date": "2026-04-28", "product": "Improve Feces Analysis System", "attachments": ["condition email", "ใบเสนอราคา sciendox"]},
+        {"date": "2026-04-22", "product": "CBC+UA ตั้งงบ", "tests": "CBC 170,000 Tests + UA 55,000 Tests", "type": "MDT+MEDONE 2 ใบ"}
+      ],
+      "contact": "หัวหน้าห้อง Lab = คุณเจนนี่",
+      "products_sold": ["CBC (XN-3000+DI-60)", "UA (UN3111b+UC1000)", "Improve Feces"]
+    },
+
+    "รพ.เลิดสิน": {
+      "เสนอต่อ": "ท่านผู้อำนวยการ",
+      "quotations": [
+        {"date": "2026-02-11", "product": "RIQAS สนับสนุน (ผ่าน ORTHO)", "sent_to": "farida@orthoclinicaldiagnostics.com", "note": "ส่งตรงให้ ORTHO ไม่ผ่านพี่ชมพู่"}
+      ],
+      "contact": "หัวหน้าห้อง Lab = คุณอัชดา(พี่แฟ) กาญจนพิบูลวงศ์, Key = คุณพัชรวดี ศรีงาม",
+      "products_sold": ["CBC (XN-3000+DI-60)", "RIQAS"]
+    },
+
+    "รพ.สมเด็จพระปิ่นเกล้า": {
+      "เสนอต่อ": "ท่านผู้อำนวยการ",
+      "quotations": [
+        {"date": "2026-05-27", "product": "RIQAS (ผ่าน PCL Holdings)", "sent_to": "พี่ชมพู่", "attachments": ["FM-MKT-070-01", "RIQAS cycle date", "RIQAS pricelist"], "cc": "jeeranan_diag"},
+        {"date": "2026-02-16", "product": "CBC ตั้งงบ 2570 (XR-Series)", "attachments": ["condition email", "ราคาน้ำยา 24บาท.xls", "FM-DIA-064-00 จำนวน 4 ใบ"]}
+      ],
+      "contact": "Key = คุณเศรษฐพงศ์ ธิมาหาร",
+      "products_sold": ["CBC (XR-3000+XR-1000+XN-550)", "RIQAS"]
+    },
+
+    "รพ.ผู้สูงอายุบางขุนเทียน": {
+      "เสนอต่อ": "ท่านผู้อำนวยการ",
+      "quotations": [
+        {"date": "2026-04-10", "product": "CBC Contract", "attachments": ["ใบเสนอราคา.xlsx", "Sales Report"]}
+      ],
+      "contact": "หัวหน้าห้อง Lab = คุณณิชชา ทับเกษมปิติโสภา",
+      "products_sold": ["CBC (XN-1500)"]
+    },
+
+    "รพ.คูน (Koon Hospital)": {
+      "เสนอต่อ": "ท่านผู้อำนวยการ",
+      "quotations": [
+        {"date": "2026-04-06", "product": "Sysmex XN-L330", "attachments": ["condition email", "XN-L Series Price per test.xls", "ใบเสนอราคา XN-330.xlsx"]}
+      ],
+      "contact": "Key = คุณหมอแน็ต",
+      "products_sold": ["CBC (XN-330 เช่า)"],
+      "note": "รพ.เอกชน ไม่เคยมีเครื่อง ส่ง Outlab เดิม"
+    },
+
+    "รพ.เจริญกรุงประชารักษ์": {
+      "เสนอต่อ": "ท่านผู้อำนวยการ",
+      "quotations": [
+        {"date": "2026-02-16", "product": "RANDOX G6PD", "attachments": ["ขอทำใบเสนอราคา G6PD 3บริษัท.xlsx"]}
+      ],
+      "contact": "หัวหน้าห้อง Lab = คุณสนั่น งามแม้น",
+      "products_sold": ["CBC (XN-3000+RET)", "RANDOX"]
+    },
+
+    "รพ.หลวงพ่อทวีศักดิ์": {
+      "เสนอต่อ": "ท่านผู้อำนวยการ",
+      "contact": "หัวหน้าห้อง Lab = คุณประสิทธิ์ ดุษฎีประเวศน์",
+      "products_sold": ["CBC (XN-1500+XN-1000)"]
+    },
+
+    "รพ.บางปะกอก 9": {
+      "เสนอต่อ": "ท่านผู้อำนวยการ",
+      "quotations": [
+        {"date": "2026-02-07", "product": "RIQAS + อื่นๆ", "attachments": ["ขอทำใบเสนอราคา (เฉพาะ DIAG).xlsx", "RIQAS cycle date", "RIQAS pricelist"]}
+      ],
+      "products_sold": ["RIQAS"]
+    },
+
+    "รพ.BNH (ผ่าน NHS)": {
+      "quotations": [
+        {"date": "2026-02-07", "product": "Randox control", "customer_code": "D00005-002", "full_name": "บริษัท เนชั่นแนล เฮลท์แคร์ ซิสเท็มส์ จำกัด", "attachments": ["ใบเสนอราคา BNH.xls", "Acusera Control pricelist"]}
+      ],
+      "products_sold": ["Randox control"]
+    },
+
+    "รพ.ธนบุรี บำรุงเมือง": {
+      "quotations": [
+        {"date": "2026-02-11", "product": "Serology Control", "sent_to": "พี่ผึ้ง (thassanee.th@thhealth.co.th)", "note": "ส่งตรงให้ลูกค้า"}
+      ],
+      "products_sold": ["Serology Control"]
+    },
+
+    "รพ.พีเอ็มจี (PMG)": {
+      "quotations": [
+        {"date": "2026-03-05", "product": "RANDOX", "attachments": ["ขอทำใบเสนอราคา สินค้า DIAG.xlsx", "Acusera pricelist"]}
+      ],
+      "products_sold": ["RANDOX"]
+    },
+
+    "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี": {
+      "quotations": [
+        {"date": "2026-04-28", "product": "RANDOX", "attachments": ["ใบเสนอราคา.xlsx"]}
+      ],
+      "products_sold": ["RANDOX"]
+    },
+
+    "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา": {
+      "quotations": [
+        {"date": "2026-02-17", "product": "DIRUI + SYSMEX", "note": "จำนวน 2 ใบ, ขายราคาตาม pricelist", "attachments": ["FM-DIA-064-00 DIRUI.xlsx"]}
+      ],
+      "products_sold": ["DIRUI", "SYSMEX"]
+    },
+
+    "NURA – FUJIFILM DKH (Thailand)": {
+      "quotations": [
+        {"date": "2026-05-05", "product": "RIQAS", "note": "recheck ชื่อในใบเสนอราคา", "attachments": ["ขอทำใบเสนอราคา RANDOX -NURA.xlsx"]}
+      ],
+      "products_sold": ["RIQAS"]
+    },
+
+    "บริษัท กรุงเทพอาร์ ไอ เอแล็บ จำกัด": {
+      "quotations": [
+        {"date": "2026-03-06", "product": "RIQAS update", "sent_to": "purchase@brianet.com"},
+        {"date": "2026-02-26", "product": "RIQAS รอบ มี.ค 2569", "sent_to": "Phattira", "note": "ส่งตรงให้ลูกค้า ไม่ผ่านพี่ชมพู่"}
+      ],
+      "products_sold": ["RIQAS"]
+    },
+
+    "บริษัท ไลฟ์ ไอ-เทค": {
+      "quotations": [
+        {"date": "2026-04-07", "product": "sdLDL control", "attachments": ["FM-MKT-070-01 ขอทำใบเสนอราคา sdLDL control.xls"]}
+      ],
+      "products_sold": ["sdLDL control"]
+    },
+
+    "N Health": {
+      "quotations": [
+        {"date": "2026-02-10", "product": "sdLDL", "sent_to": "visa_diag (CLD)", "attachments": ["condition email", "FM-MKT-070-01"]}
+      ],
+      "products_sold": ["sdLDL"]
+    },
+
+    "บริษัท เมดิทอป จำกัด (CLD)": {
+      "quotations": [
+        {"date": "2026-04-30", "product": "Revise ใบเสนอราคา แผนก CLD", "sent_to": "kanittha_cld"}
+      ],
+      "note": "Internal - แผนก CLD"
+    }
+  },
+
+  "workflow_rules": {
+    "ส่งพี่ชมพู่ (admin ออกใบเสนอราคา)": {
+      "to": "chanutthaporn_diag@meditopthailand.com",
+      "cc": "suchart_diag + waristha_diag",
+      "products": ["CBC Contract", "IMPROVE", "DIRUI", "SYSMEX equipment", "RANDOX", "RIQAS (ขอทำ)", "sdLDL control", "Improve Feces"],
+      "attachments": "Excel template (FM-DIA-064-00 หรือ FM-MKT-070-01) + pricelist/condition"
+    },
+    "ส่งลูกค้าโดยตรง (ส่งใบเสนอราคาที่ออกแล้ว)": {
+      "products": ["RIQAS (นำส่งใบเสนอราคา PDF)", "Serology Control", "Acusera Control"],
+      "note": "ใบเสนอราคาออกจากระบบแล้ว แค่ส่ง PDF ให้ลูกค้า"
+    },
+    "CBC ตั้งงบ / e-bidding": {
+      "special": "ขอ MDT + MEDONE 2 ใบ + เอกสารลงนามเซ็นจริง + สแกน PDF ส่งเมล์"
+    }
+  }
+}
