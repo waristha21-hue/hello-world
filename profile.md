@@ -1,6 +1,6 @@
 # Profile: Job
 
-_Last updated: 2026-05-25_
+_Last updated: 2026-06-12_
 
 ---
 
@@ -15,8 +15,17 @@ _Last updated: 2026-05-25_
 
 ## Professional Background
 
-**Current Role:** Sales Representative — Meditop Co., Ltd.
-**Industry:** Medical devices / laboratory diagnostics
+**Current Role:** Account Value Partner (AVP) — Roche Diagnostics (Thailand) Ltd. — starting July 2026
+**Previous Role:** Sales Representative — Meditop Co., Ltd. (until June 2026)
+**Industry:** Medical devices / laboratory diagnostics (IVD)
+
+### New Role: Account Value Partner @ Roche
+- Field-based sales, reports to Account Value Lead
+- Drives sales of Roche diagnostic portfolio in assigned territory
+- Owns medical education events + KOL engagement strategy
+- Co-creates solutions with hospital management and key customers
+- Territory/account planning, full sales cycle ownership, budgeted sales targets
+- See `roche_avp_preparation.md` for full transition plan
 
 ### Responsibilities
 - Manages laboratory medical equipment accounts in hospitals across Bangkok
@@ -31,7 +40,7 @@ _Last updated: 2026-05-25_
 
 ### Career Development
 - Interviewed (in English) for an **Application Specialist** role
-- **Target next role:** Account Value Partner (AVP) at Roche
+- ✅ **Achieved (June 2026):** Offered Account Value Partner (AVP) at Roche Diagnostics Thailand — starts July 2026
 - Transition theme: product-focused sales → value-based strategic healthcare partnership
 
 ---
