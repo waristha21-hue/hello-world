@@ -1,0 +1,584 @@
+{
+  "Abbott Rapid Test": {
+    "subfolders": [
+      "Abbott Rapid Test/Brochue",
+      "Abbott Rapid Test/Instrument specification",
+      "Abbott Rapid Test/Price list",
+      "Abbott Rapid Test/Reagent specification"
+    ],
+    "files": []
+  },
+  "Delta Lab": {
+    "subfolders": [
+      "Delta Lab/1.Brochure",
+      "Delta Lab/2.Price List",
+      "Delta Lab/3.Instrument specification",
+      "Delta Lab/4.Reagent specification",
+      "Delta Lab/5.Operator’s manual , IFU",
+      "Delta Lab/6.Reagent package insert  Kit insert , Leaflet",
+      "Delta Lab/7.MSDS",
+      "Delta Lab/8.Certificate US FDA  , CE Mark , Thai FDA (ใบ อย.)",
+      "Delta Lab/9.Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "Delta Lab/10.SOP , Work instruction (คู่มือการใช้งานภาษาไทย)",
+      "Delta Lab/11.Maintenance Checklist",
+      "Delta Lab/12.Instrument checklist",
+      "Delta Lab/13.Implementation Plan",
+      "Delta Lab/14.Powerpoint presentation",
+      "Delta Lab/15.Presentation request form",
+      "Delta Lab/16.แบบฟอร์มขอ Contract",
+      "Delta Lab/17.Implementation plan",
+      "Delta Lab/18.LIS Protocol"
+    ],
+    "files": []
+  },
+  "Diag Products Presentation": {
+    "subfolders": [
+      "Diag Products Presentation/AFC",
+      "Diag Products Presentation/Dirui",
+      "Diag Products Presentation/Dymind",
+      "Diag Products Presentation/Fuji",
+      "Diag Products Presentation/Improve",
+      "Diag Products Presentation/Medcaptain",
+      "Diag Products Presentation/Randox",
+      "Diag Products Presentation/Siemens",
+      "Diag Products Presentation/Sysmex"
+    ],
+    "files": [
+      "07_CS-SERIES-27052018.ppt"
+    ]
+  },
+  "Dirui": {
+    "subfolders": [
+      "Dirui/1.Brochure",
+      "Dirui/2.Price List",
+      "Dirui/3.Instrument specification",
+      "Dirui/4.Reagent specification",
+      "Dirui/5.Operator’s manual , IFU",
+      "Dirui/6.Reagent package insert  Kit insert , Leaflet",
+      "Dirui/7.MSDS",
+      "Dirui/8.Certificate US FDA  , CE Mark , Thai FDA (ใบ อย.)",
+      "Dirui/9.Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "Dirui/10.SOP , Work instruction (คู่มือการใช้งานภาษาไทย)",
+      "Dirui/11.Maintenance Checklist",
+      "Dirui/12.Instrument checklist",
+      "Dirui/13.Implementation Plan",
+      "Dirui/14.Presentation_VDO-CSM8000_Competitor",
+      "Dirui/15.Presentation request form",
+      "Dirui/16.แบบฟอร์มขอ Contract",
+      "Dirui/17.LIS Protocol",
+      "Dirui/18.Reference site",
+      "Dirui/19.Certification-Staff",
+      "Dirui/20.SOP น้ำยา",
+      "Dirui/21. TOR",
+      "Dirui/22.Cal-Sheet"
+    ],
+    "files": [
+      "03. For Product - Installation site of DIR as May 30 , 2025-20260511005523.xls",
+      "TP-DIRUI -20260601111442-20260606011819.doc"
+    ]
+  },
+  "Dymind": {
+    "subfolders": [
+      "Dymind/1.Brochure",
+      "Dymind/2.Price List",
+      "Dymind/3.Instrument specification",
+      "Dymind/4.Reagent specification",
+      "Dymind/5.Operator’s manual , IFU",
+      "Dymind/6.Reagent package insert  Kit insert , Leaflet",
+      "Dymind/7.MSDS",
+      "Dymind/8.Certificate US FDA  , CE Mark , Thai FDA (ใบ อย.)",
+      "Dymind/9.Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "Dymind/10.SOP , Work instruction (คู่มือการใช้งานภาษาไทย)",
+      "Dymind/11.Maintenance Checklist",
+      "Dymind/12.Instrument checklist",
+      "Dymind/13.Implementation Plan",
+      "Dymind/14.Powerpoint presentation",
+      "Dymind/15.Presentation request form",
+      "Dymind/16.แบบฟอร์มขอ Contract",
+      "Dymind/17.LIS Protocol",
+      "Dymind/18.Reference site",
+      "Dymind/19.Certification-Staff",
+      "Dymind/20.Assay Sheet of Control and Calibrator",
+      "Dymind/21.Dymind for Application Team",
+      "Dymind/Assay Sheet of Control and Calibrator",
+      "Dymind/Dymind for Application Team",
+      "Dymind/รูปงาน UGM 08.05.26"
+    ],
+    "files": []
+  },
+  "FORA COVID-19 Antigen Rapid Test": {
+    "subfolders": [
+      "FORA COVID-19 Antigen Rapid Test/1.Brochure",
+      "FORA COVID-19 Antigen Rapid Test/2.Price list",
+      "FORA COVID-19 Antigen Rapid Test/3.Reagent Specification",
+      "FORA COVID-19 Antigen Rapid Test/4.Operation's manual, IFU",
+      "FORA COVID-19 Antigen Rapid Test/5.Reagent package insert",
+      "FORA COVID-19 Antigen Rapid Test/6.MSDS",
+      "FORA COVID-19 Antigen Rapid Test/7.Certificate US FDA, CE Maek, Thai FDA",
+      "FORA COVID-19 Antigen Rapid Test/8.Certificate of authorization ( ใบตัวแทนจำหน่าย )",
+      "FORA COVID-19 Antigen Rapid Test/9.SOP, Work instruction ( คู่มือการใช้งานภาษาไทย )",
+      "FORA COVID-19 Antigen Rapid Test/10.Powerpoint presentation",
+      "FORA COVID-19 Antigen Rapid Test/11.Reference site",
+      "FORA COVID-19 Antigen Rapid Test/12.Certification-Staff"
+    ],
+    "files": []
+  },
+  "Fuji": {
+    "subfolders": [
+      "Fuji/1.Brochure",
+      "Fuji/2.Price List",
+      "Fuji/3.Instrument specification",
+      "Fuji/4.Reagent specification",
+      "Fuji/5.Operator’s manual , IFU",
+      "Fuji/6.Reagent package insert  Kit insert , Leaflet",
+      "Fuji/7.MSDS",
+      "Fuji/8.Certificate US FDA  , CE Mark , Thai FDA (ใบ อย.)",
+      "Fuji/9.Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "Fuji/10.SOP , Work instruction (คู่มือการใช้งานภาษาไทย)",
+      "Fuji/11.Maintenance Checklist",
+      "Fuji/12.Instrument checklist",
+      "Fuji/13.Implementation Plan",
+      "Fuji/14.Powerpoint presentation",
+      "Fuji/15.Presentation request form",
+      "Fuji/16.แบบฟอร์มขอ Contract",
+      "Fuji/17.LIS Protocol",
+      "Fuji/18.Reference site",
+      "Fuji/19.Certification-Staff",
+      "Fuji/20.SOP Reagent FUJI"
+    ],
+    "files": [
+      "08_Spec FDC NX600i Update19082021-20251207122020.docx",
+      "EN_15622396_FDC FUJI DRI-CHEM CONTROL QP-L.pdf",
+      "EN_Information sheet_FDC SLIDE NAKCL S 24.pdf",
+      "EN_Information sheet_FDC SLIDES TCO2 24 1 J EX.pdf",
+      "Installation plan Fuji series-20251201012411.xlsx",
+      "Installation plan Fuji series.xlsx",
+      "แบบฟอร์มการขอ Contract  เครื่อง FUJI CHEM _Revised date as 28-04-23.docx"
+    ]
+  },
+  "HPV PCR Kit": {
+    "subfolders": [
+      "HPV PCR Kit/1.Brochure",
+      "HPV PCR Kit/2.Price List",
+      "HPV PCR Kit/3.Instrument specification",
+      "HPV PCR Kit/4.Reagent specification",
+      "HPV PCR Kit/5.Operator’s manual , IFU",
+      "HPV PCR Kit/6.Reagent package insert  Kit insert , Leaflet",
+      "HPV PCR Kit/7.MSDS",
+      "HPV PCR Kit/8.Certificate US FDA  , CE Mark , Thai FDA (ใบ อย.)",
+      "HPV PCR Kit/9.Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "HPV PCR Kit/10.SOP , Work instruction (คู่มือการใช้งานภาษาไทย)",
+      "HPV PCR Kit/11.Maintenance Checklist",
+      "HPV PCR Kit/12.Instrument checklist",
+      "HPV PCR Kit/13.Implementation Plan",
+      "HPV PCR Kit/14.Powerpoint presentation",
+      "HPV PCR Kit/15.Presentation request form",
+      "HPV PCR Kit/16.แบบฟอร์มขอ Contract",
+      "HPV PCR Kit/17.Implementation plan",
+      "HPV PCR Kit/18.LIS Protocol"
+    ],
+    "files": []
+  },
+  "Improve": {
+    "subfolders": [
+      "Improve/1.Brochure",
+      "Improve/2.Price List",
+      "Improve/3.Instrument specification",
+      "Improve/4.Reagent specification",
+      "Improve/5.Operator’s manual and IFU",
+      "Improve/6.Reagent package insert  Kit insert , Leaflet",
+      "Improve/7.MSDS",
+      "Improve/8.Certificate US FDA  , CE Mark , Thai FDA (ใบ อย.)",
+      "Improve/9.Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "Improve/10.SOP , Work instruction (คู่มือการใช้งานภาษาไทย)",
+      "Improve/11.Maintenance Checklist",
+      "Improve/12.Instrument checklist",
+      "Improve/13.Implementation Plan",
+      "Improve/14.Powerpoint presentation",
+      "Improve/15.Presentation request form",
+      "Improve/16.แบบฟอร์มขอ Contract",
+      "Improve/17.LIS Protocol",
+      "Improve/18.Reference site",
+      "Improve/19.Certification-Staff",
+      "Improve/20. Research support"
+    ],
+    "files": [
+      "Check List Feces analyzer series v.20230802-20260415015728.xlsx",
+      "Check List Feces analyzer series v.20230802.xlsx",
+      "Evaluation of Blood Chemistry Stability Using Vacuum Blood Collection Tube.pdf",
+      "Evaluation of the ESR fast detector and Improve ESR analyzer as modified Westergren methods for erythrocyte sedimentati.pdf",
+      "Instruction for use ROV.pdf",
+      "Instruction for use RVADV.pdf",
+      "Sciendox 5A HL7 LIS instruction V10 EN230719_240829_161535.pdf"
+    ]
+  },
+  "IT": {
+    "subfolders": [
+      "IT/1.Certification-Staff"
+    ],
+    "files": []
+  },
+  "Medcaptain": {
+    "subfolders": [
+      "Medcaptain/1.Brochure",
+      "Medcaptain/2.Price List",
+      "Medcaptain/3.Instrument specification",
+      "Medcaptain/4.Reagent specification",
+      "Medcaptain/5.Operator’s manual , IFU",
+      "Medcaptain/6.Reagent package insert  Kit insert , Leaflet",
+      "Medcaptain/7.MSDS",
+      "Medcaptain/8.Certificate US FDA  , CE Mark , Thai FDA (ใบ อย.)",
+      "Medcaptain/9.Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "Medcaptain/10.SOP , Work instruction (คู่มือการใช้งานภาษาไทย)",
+      "Medcaptain/11.Maintenance Checklist",
+      "Medcaptain/12.Instrument checklist",
+      "Medcaptain/13.Implementation Plan",
+      "Medcaptain/14.Powerpoint presentation",
+      "Medcaptain/15.Presentation request form",
+      "Medcaptain/16.แบบฟอร์มขอ Contract",
+      "Medcaptain/17.Implementation plan",
+      "Medcaptain/18.LIS Protocol",
+      "Medcaptain/19.Installation Site",
+      "Medcaptain/20.Certification Staff"
+    ],
+    "files": [
+      "Revised Check list Medcaptain Immu F6_Update 19122024.xls",
+      "Spec Medcaptain Immu F9_09082024-20251212141629.doc",
+      "Spec_PCT_Immu F6.doc",
+      "Spec_TnI_Immu F6.doc"
+    ]
+  },
+  "Meditop Presentation": {
+    "subfolders": [],
+    "files": [
+      "10-HR-2568 แผนที่เมดิทอปใหม่.pdf",
+      "Meditop Company Profile updated_Apr2026.pdf",
+      "MEDITOP VDO Profile_EN_2025 (1).mp4",
+      "MEDITOP VDO_Profile_TH_2025 (1).mp4",
+      "ครอบครัวเมดิทอป.wav",
+      "วิดีโอสั้น-เเนะนำบริษัท Meditop.mp4"
+    ]
+  },
+  "Nova Biomedical": {
+    "subfolders": [
+      "Nova Biomedical/Certificate Staff",
+      "Nova Biomedical/Nova Blood Gas",
+      "Nova Biomedical/Nova Electrolyte",
+      "Nova Biomedical/Nova for Application tools",
+      "Nova Biomedical/Nova for sales tools",
+      "Nova Biomedical/NovaNet4 & POCT SW",
+      "Nova Biomedical/Nova POCT",
+      "Nova Biomedical/Nova Sport Meter",
+      "Nova Biomedical/Nova Veterinary",
+      "Nova Biomedical/Other accessories for Nova",
+      "Nova Biomedical/Syringe ABG & Capillary ABG"
+    ],
+    "files": []
+  },
+  "Odoo": {
+    "subfolders": [],
+    "files": [
+      "Odoo diag by Juthamat Purchasing.pdf",
+      "คู่มือการใช้งาน Odoo_V2.0.2_re.pdf",
+      "คู่มือการใช้งานระบบ Odoo SOP Odoo (07052024).pdf"
+    ]
+  },
+  "Orgentec": {
+    "subfolders": [
+      "Orgentec/1.Brochure",
+      "Orgentec/2.Price List",
+      "Orgentec/3.Instrument specification",
+      "Orgentec/4.Reagent specification",
+      "Orgentec/5.Operator’s manual , IFU",
+      "Orgentec/6.Reagent package insert  Kit insert , Leaflet",
+      "Orgentec/7.MSDS",
+      "Orgentec/8.Certificate US FDA  , CE Mark , Thai FDA (ใบ อย.)",
+      "Orgentec/9.Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "Orgentec/10.SOP , Work instruction (คู่มือการใช้งานภาษาไทย)",
+      "Orgentec/11.Maintenance Checklist",
+      "Orgentec/12.Instrument checklist",
+      "Orgentec/13.Implementation Plan",
+      "Orgentec/14.Powerpoint presentation",
+      "Orgentec/15.Presentation request form",
+      "Orgentec/16.แบบฟอร์มขอ Contract",
+      "Orgentec/17.Implementation plan",
+      "Orgentec/18.LIS Protocol"
+    ],
+    "files": []
+  },
+  "Randox": {
+    "subfolders": [
+      "Randox/1. Brochure",
+      "Randox/2. Price List",
+      "Randox/3. Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "Randox/4.Certificate US FDA  , CE Mark , Thai FDA (ใบ อย.)",
+      "Randox/5. ISO documents",
+      "Randox/6. RIQAS specifications",
+      "Randox/7. Acusera Specifications",
+      "Randox/8. Reagent specifications",
+      "Randox/9. RIQAS IFU (kit inserts)",
+      "Randox/10. Acusera controls IFU (kit inserts)",
+      "Randox/11. Randox reagent IFU (kit inserts)",
+      "Randox/12. MSDS for RIQAS",
+      "Randox/13. MSDS for Acusera",
+      "Randox/14. Operator’s manual",
+      "Randox/15. Shortcut, คู่มือการใช้งานภาษาไทย",
+      "Randox/16. Powerpoint presentation",
+      "Randox/17. Implementation Plan",
+      "Randox/18. Presentation request form",
+      "Randox/19. แบบฟอร์มขอ Acuser247",
+      "Randox/20. ขั้นตอน download เอกสารสมัคร RIQAS",
+      "Randox/21. วิธีการกรอกเอกสารเพื่อสมัคร RIQAS",
+      "Randox/22. Reference site",
+      "Randox/23. ตารางส่งผล RIQAS 2569",
+      "Randox/24. RIQAS cycle date",
+      "Randox/25. ค่าใช้จ่ายในการติดตั้ง Acusera247",
+      "Randox/26.เอกสาร Active VitB12, AMH, BNP, Bone marker, Pre-eclampsia, Serun Indicies, Ultra-low PSA, Xanthochromial for training 1_6_2023",
+      "Randox/27. คุณลักษณะและประโยชน์จากโปรแกรม  Acusera 247",
+      "Randox/28. Flow Chart  for RIQAS",
+      "Randox/29. ตารางการสั่งซื้อ HM5162 Haematology Control Tri Level",
+      "Randox/30. RIQAS Programmes Renewal and Order Timelines",
+      "Randox/31.คุณลักษณะและประโยชน์จากโปรแกรม RIQAS",
+      "Randox/32. Training VDO",
+      "Randox/33. Training certificate",
+      "Randox/34. เอกสารสำหรับ  Training 8_8_2024",
+      "Randox/35. Niche Randox Reagents",
+      "Randox/36. Cue card",
+      "Randox/37. RIQAS Format 2026",
+      "Randox/38. เอกสาร Randox Training - 9 January 2026",
+      "Randox/39. Competitors and Comparison of Acusera controls",
+      "Randox/40. RIQAS.COM",
+      "Randox/41. RIQAS.COM_VDO from RIQAS",
+      "Randox/42. VDO_RIQAS.COM webinars 10-19 March2026",
+      "Randox/44. VDO การใช้งาน RIQAS.COM_ภาษาไทย",
+      "Randox/45. เอกสาร Randox Training - Intermediate Acusera Product and Niche Reagents5 June 2026"
+    ],
+    "files": []
+  },
+  "Sebia": {
+    "subfolders": [
+      "Sebia/1.Brochure",
+      "Sebia/2.Price List",
+      "Sebia/3.Instrument specification",
+      "Sebia/4.Reagent specification",
+      "Sebia/5.Operator’s manual , IFU",
+      "Sebia/6.Reagent package insert  Kit insert , Leaflet",
+      "Sebia/7.MSDS",
+      "Sebia/8.Certificate US FDA  , CE Mark , Thai FDA (ใบ อย.)",
+      "Sebia/9.Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "Sebia/10.SOP , Work instruction (คู่มือการใช้งานภาษาไทย)",
+      "Sebia/11.Maintenance Checklist",
+      "Sebia/12.Instrument checklist",
+      "Sebia/13.Implementation Plan",
+      "Sebia/14.Powerpoint presentation",
+      "Sebia/15.Presentation request form",
+      "Sebia/16.แบบฟอร์มขอ Contract",
+      "Sebia/17.LIS Protocol",
+      "Sebia/18.Reference site",
+      "Sebia/19.Certification-Staff"
+    ],
+    "files": []
+  },
+  "Siemens": {
+    "subfolders": [
+      "Siemens/1.Brochure",
+      "Siemens/2.Price List",
+      "Siemens/3.Instrument specification",
+      "Siemens/4.Reagent specification",
+      "Siemens/5.Operator’s manual , IFU",
+      "Siemens/6. IFU Packing Insert Reagent",
+      "Siemens/7.MSDS",
+      "Siemens/8.Certificate US FDA  , CE Mark , Thai FDA (ใบ อย.)",
+      "Siemens/9.Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "Siemens/10.SOP , Work instruction (คู่มือการใช้งานภาษาไทย)",
+      "Siemens/11.Maintenance Checklist",
+      "Siemens/12.Instrument checklist",
+      "Siemens/13.Implementation Plan",
+      "Siemens/14.Powerpoint presentation",
+      "Siemens/15.Presentation request form",
+      "Siemens/16.แบบฟอร์มขอ Contract",
+      "Siemens/17.LIS Protocol",
+      "Siemens/18.Reference site",
+      "Siemens/19.SOP น้ำยาภาษาไทย",
+      "Siemens/20.Certification-Staff",
+      "Siemens/21.TOR",
+      "Siemens/Certificate Staff"
+    ],
+    "files": [
+      "Atellica_IM_Acid_United_Kingdom__DXDCM_09017fe980792a67-1670911191735.pdf",
+      "Atellica_IM_Base_United_Kingdom__DXDCM_09017fe980796518-1671061166100.pdf",
+      "Atellica_IM_Calibrator_A_CAL_A_United_Kingdom__DXDCM_09017fe9807962fc-1671060115712.pdf",
+      "Atellica_IM_Calibrator_D_CAL_D_United_Kingdom__DXDCM_09017fe9807962ff-1671060121270.pdf",
+      "Atellica_IM_Calibrator_Q_CAL_Q_United_Kingdom__DXDCM_09017fe980796303-1671060128473.pdf",
+      "Atellica_IM_CA_15-3_Calibrator_CA_15-3_CAL_United_Kingdom__DXDCM_09017fe9807962f3-1671060099538.pdf",
+      "Atellica_IM_CA_125II_Calibrator_CA_125II_CAL_United_Kingdom__DXDCM_09017fe9807962f0-1671060094136.pdf",
+      "Atellica_IM_Cleaner_United_Kingdom__DXDCM_09017fe980796429-1671577457158.pdf",
+      "Atellica_IM_Wash_United_Kingdom__DXDCM_09017fe980796428-1715047574205.pdf"
+    ]
+  },
+  "Sysmex CBC": {
+    "subfolders": [
+      "Sysmex CBC/1.Brochure",
+      "Sysmex CBC/2.Price List",
+      "Sysmex CBC/3.Instrument specification",
+      "Sysmex CBC/4.Reagent specification",
+      "Sysmex CBC/5.Operator’s manual , IFU",
+      "Sysmex CBC/6.Reagent package insert, Leaflet, Photo",
+      "Sysmex CBC/7.MSDS",
+      "Sysmex CBC/8.Certificate US FDA  , CE Mark , Thai FDA (ใบ อย.)",
+      "Sysmex CBC/9.Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "Sysmex CBC/10.SOP , Work instruction (คู่มือการใช้งานภาษาไทย)",
+      "Sysmex CBC/11.Maintenance Checklist",
+      "Sysmex CBC/12.Instrument checklist",
+      "Sysmex CBC/13.Implementation Plan",
+      "Sysmex CBC/15.Presentation request form",
+      "Sysmex CBC/16.แบบฟอร์มขอ Contract",
+      "Sysmex CBC/17.LIS Protocol",
+      "Sysmex CBC/18.Reference site",
+      "Sysmex CBC/19. ISO Certificate",
+      "Sysmex CBC/20.Caresphere",
+      "Sysmex CBC/21.Certificate Training-Staff",
+      "Sysmex CBC/22.Table Specification",
+      "Sysmex CBC/23.Video Record Sysmex Scientific Day 2024",
+      "Sysmex CBC/24. Wellgate (Baso Brand)"
+    ],
+    "files": [
+      "7. แบบฟอร์มการขอ Contract เครื่อง Sysmex CBC FM-DIA-CT SYMC-00.doc"
+    ]
+  },
+  "Sysmex Urine": {
+    "subfolders": [
+      "Sysmex Urine/1.Brochure",
+      "Sysmex Urine/2.Price List",
+      "Sysmex Urine/3.Instrument specification",
+      "Sysmex Urine/4.Reagent specification",
+      "Sysmex Urine/5.Operator’s manual_IFU",
+      "Sysmex Urine/6.Reagent package insert  Kit insert_Leaflet",
+      "Sysmex Urine/7.MSDS",
+      "Sysmex Urine/8.Certificate US FDACE _ark_Thai FDA_ใบอย",
+      "Sysmex Urine/9.Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "Sysmex Urine/10.SOP , Work instruction (คู่มือการใช้งานภาษาไทย)",
+      "Sysmex Urine/11.Maintenance Checklist",
+      "Sysmex Urine/12.Instrument checklist",
+      "Sysmex Urine/13.Implementation Plan",
+      "Sysmex Urine/14.Powerpoint presentation",
+      "Sysmex Urine/15.Presentation request form",
+      "Sysmex Urine/16.แบบฟอร์มขอ Contract",
+      "Sysmex Urine/17.LIS Protocol",
+      "Sysmex Urine/18.Reference site",
+      "Sysmex Urine/19.Certification-Staff",
+      "Sysmex Urine/20.For Use Internal - Training Document",
+      "Sysmex Urine/21.Document เพิ่มเติม สำหรับเปิดซอง"
+    ],
+    "files": [
+      "7. 0785 UF-CELLPACK CR E02-20260305145224.pdf",
+      "10. 0795 SG CALIBRATOR E02.pdf",
+      "20260403_ref site UN.xlsx",
+      "FAQ - 2.docx",
+      "R317167_UC-1000_Host Interface Specifications_EN_0.07.pdf",
+      "Semiquantitative, fully automated urine test strip analysis_UC-3500-20260225214549-20260305123353.pdf",
+      "Semiquantitative, fully automated urine test strip analysis_UC-3500.pdf",
+      "UC1000 Presentation.pdf",
+      "UN-Series Presentation file-latest 01.09.23-20260310211618.pdf",
+      "UN-Series Presentation file-latest 01.09.23.pdf",
+      "UN Reference site for Tender_as of 19-May-2023 - Only_MDT.xlsx",
+      "ปก Maintenance checklist UC-1000-20260422062252.doc",
+      "ปก Maintenance checklist UC-1000-20260423213715-20260516123413.doc",
+      "ปก Maintenance checklist UC-1000-20260423213715.doc",
+      "ปก Maintenance checklist UD-10-20260331060638.doc",
+      "ปก Maintenance checklist UD-10-20260401052252.doc",
+      "ปก Maintenance checklist UD-10-20260401101541.doc",
+      "ปก Maintenance checklist UD-10-20260402190149.doc",
+      "ปก Maintenance checklist UD-10.doc"
+    ]
+  },
+  "Thermo fisher": {
+    "subfolders": [
+      "Thermo fisher/1.Brochure",
+      "Thermo fisher/2.Price List",
+      "Thermo fisher/3.Instrument specification",
+      "Thermo fisher/4.Reagent specification",
+      "Thermo fisher/5.Operator’s manual , IFU",
+      "Thermo fisher/6.Reagent package insert  Kit insert , Leaflet",
+      "Thermo fisher/7.MSDS",
+      "Thermo fisher/8.Certificate US FDA  , CE Mark , Thai FDA (ใบ อย.)",
+      "Thermo fisher/9.Certificate of authorization (ใบตัวแทนจำหน่าย)",
+      "Thermo fisher/10.SOP , Work instruction (คู่มือการใช้งานภาษาไทย)",
+      "Thermo fisher/11.Maintenance Checklist",
+      "Thermo fisher/12.Instrument checklist",
+      "Thermo fisher/13.Implementation Plan",
+      "Thermo fisher/14.Powerpoint presentation",
+      "Thermo fisher/15.Presentation request form",
+      "Thermo fisher/16.แบบฟอร์มขอ Contract",
+      "Thermo fisher/17.LIS Protocol",
+      "Thermo fisher/18.Reference site",
+      "Thermo fisher/19.Certification-Staff"
+    ],
+    "files": []
+  },
+  "XN-BB Mode": {
+    "subfolders": [],
+    "files": [
+      "XN Blood Bank Mode Application and Service Training_MDT 27 Oct 2022.pdf",
+      "XN Blood Bank Mode Sale Training_MDT 27 Oct 2022.pdf"
+    ]
+  },
+  "เครื่องกรองน้ำ": {
+    "subfolders": [],
+    "files": [
+      "MDT 30LPH-DI_Spec_new .docx",
+      "MDT 60LPH-DI-3GT_Spec ไทย.docx"
+    ]
+  },
+  "เอกสาร LG": {
+    "subfolders": [
+      "เอกสาร LG/BKD",
+      "เอกสาร LG/UPD"
+    ],
+    "files": []
+  },
+  "เอกสารต่างๆ": {
+    "subfolders": [],
+    "files": [
+      "FM-DIA-033-00 แบบแจ้งดำเนินการแก้ไขเอกสาร (CN) ใหม่ล่าสุด 1-12-2022.pdf",
+      "FM-DIA-064-00 ขอทำใบเสนอราคา (เฉพาะ DIAG) Updated July 2024.xls",
+      "Memo Reprint บิล.xlsx",
+      "แบบฟอร์มตั้งลูกหนี้ใหม่.doc",
+      "แบบฟอร์มเปลี่ยนแปลงลูกหนี้.doc",
+      "ใบแจ้งทำ ORDER.xls"
+    ]
+  },
+  "แบบสำรวจความพึงพอใจลูกค้า": {
+    "subfolders": [],
+    "files": [
+      "DIAG Survey Online 2566 สรุป.jpg",
+      "DIAG Survey Online 2566.xlsx",
+      "DIAG Survey online 2567.pdf"
+    ]
+  },
+  "ใบ COA": {
+    "subfolders": [
+      "ใบ COA/Dirui",
+      "ใบ COA/Dymind",
+      "ใบ COA/Randox",
+      "ใบ COA/Sysmex"
+    ],
+    "files": [
+      "DST-300A#A6005#AJ370801#20270211-20260606035904.pdf"
+    ]
+  },
+  "ไฟล์เอกสารบริษัท สำหรับยื่น e-Bidding": {
+    "subfolders": [
+      "ไฟล์เอกสารบริษัท สำหรับยื่น e-Bidding/1. บริษัท เมดิทอป",
+      "ไฟล์เอกสารบริษัท สำหรับยื่น e-Bidding/2. บริษัท เอช ดี เมดิคอล",
+      "ไฟล์เอกสารบริษัท สำหรับยื่น e-Bidding/3. บริษัท เมด-วัน",
+      "ไฟล์เอกสารบริษัท สำหรับยื่น e-Bidding/4. บริษัท MDT LAB",
+      "ไฟล์เอกสารบริษัท สำหรับยื่น e-Bidding/5. บริษัท Well max shop"
+    ],
+    "files": [
+      "FM-MKT-003 แบบบันทึกผลการประกวดราคา.doc",
+      "ISO 9001 - NEW.pdf",
+      "ISO 13485 - NEW.pdf"
+    ]
+  }
+}
