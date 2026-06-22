@@ -166,7 +166,5 @@ add_para(doc, "•  บันได Molecular:  5800 (เริ่มต้น) 
 add_para(doc, "•  คู่ Core Lab:  pro = “โปร” ใหญ่  /  pure = “เพียวร์” เล็กกะทัดรัด", size=11, space_after=2)
 add_para(doc, "•  ตัวเลขปริมาณงานของ 6800/8800 เป็นค่าโดยประมาณ — ตอนเข้างานจริงให้เช็กตัวเลขเป๊ะจาก spec sheet ภายในของ Roche อีกครั้ง", size=10.5, color="C0392B", space_after=2)
 
-from pathlib import Path
-out = Path(__file__).parent / "Roche_Flashcards.docx"
-doc.save(out)
-print(f"SAVED: {out}")
+doc.save(r"C:\Users\ACER\Desktop\claude\hello-world\Roche_Flashcards.docx")
+print("SAVED: Roche_Flashcards.docx")
