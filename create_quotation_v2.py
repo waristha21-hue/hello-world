@@ -1,9 +1,14 @@
 import openpyxl
 from copy import copy
 from datetime import datetime
+from pathlib import Path
+
+# === CONFIG: แก้ตรงนี้จุดเดียวถ้าย้ายไฟล์ ===
+DESKTOP = Path.home() / "Desktop"
+REPO = Path(__file__).parent  # โฟลเดอร์เดียวกับไฟล์ .py นี้
 
 # Open the ORIGINAL template
-src_path = r"C:\Users\ACER\Desktop\ขอทำใบเสนอราคา สินค้า DIAG.xlsx"
+src_path = DESKTOP / "ขอทำใบเสนอราคา สินค้า DIAG.xlsx"
 wb = openpyxl.load_workbook(src_path)
 ws = wb["ใบเสนอราคา"]
 
@@ -54,6 +59,6 @@ ws["E25"] = "UK"
 ws["B30"] = "วริษฐา"
 
 # Save
-out_path = r"C:\Users\ACER\Desktop\ใบเสนอราคา_ราชพิพัฒน์_RIQAS_RQ9128.xlsx"
+out_path = DESKTOP / "ใบเสนอราคา_ราชพิพัฒน์_RIQAS_RQ9128.xlsx"
 wb.save(out_path)
 print(f"Saved: {out_path}")
